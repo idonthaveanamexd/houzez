@@ -1,10 +1,10 @@
 [
   {
     "owner": "dadu",
-    "name": "Sandbox Island",
+    "name": "Sandbox Manson",
     "building_type": "sandbox_island",
     "uploaded_at": 1795293533,
-    "features": {"Music": true, "Ambient": false, "Sign": true, "Mannequins": false},
+    "features": {"Music": true, "Ambient": true, "Sign": true, "Mannequins": true},
     "images": [0, 0, 0],
     "image_urls": [
       "https://raw.githubusercontent.com/idonthaveanamexd/houzez/refs/heads/main/pics/sandbox/image_2026-11-21_230017921.png",
